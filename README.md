@@ -16,16 +16,18 @@
 </h1>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Python-%ffE34F26.svg?style=flat&logo=python&logoColor=white">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/flask-%23ffff.svg?style=flat&logo=flask&logoColor=black">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Docker-%231572B6.svg?style=flat&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
 <br/>
 
-<p align="center">
+<p>
 This is the code to accompany the tutorial available at <a href="https://codecapsules.io/docs/deployment/how-to-deploy-flask-docker-application-to-production/">https://codecapsules.io/docs/deployment/how-to-deploy-flask-docker-application-to-production/</a>
 </p>
 
+You might also be interested in our other resources:
 
-
+* **[Deployment guides](http://codecapsules.io/docs/deployment/):** quick-start guides to deploy specific frameworks and languages to production environments.
+* **[Tutorials](http://codecapsules.io/docs/tutorials/):** detailed project walkthroughs to help you learn specific frameworks and langauges.

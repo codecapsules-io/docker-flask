@@ -12,7 +12,7 @@
 </p>
 
 <h1 align="center">
-  How to Deploy a Flask Docker Application to Production on Code Capsules
+  How to deploy a Flask Docker application to production
 </h1>
 
 <p align="center">
@@ -24,7 +24,7 @@
 <br/>
 
 <p>
-This is the code to accompany the tutorial available at <a href="https://codecapsules.io/docs/deployment/how-to-deploy-flask-docker-application-to-production/">https://codecapsules.io/docs/deployment/how-to-deploy-flask-docker-application-to-production/</a>
+This is the code to accompany the tutorial available at <a href="https://codecapsules.io/docs/deployment/how-to-deploy-flask-docker-application-to-production/">How to deploy a Flask Docker application to production.</a>
 </p>
 
 You might also be interested in our other resources:
